@@ -1,5 +1,5 @@
 action cableの勉強。
-基本的なパターンのやつ。
+ユーザ認証なし、Roomなしのシンプルなパターン。
 
-以下の記事を参考に作成。
+参考記事
 https://techtechmedia.com/action-cable-rails6/
