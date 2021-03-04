@@ -1,0 +1,15 @@
+current directory: /home/rails_user/action_cable_study_1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/rails_user/.rbenv/versions/3.0.0/bin/ruby -I /home/rails_user/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210304-9385-uqxdyh.rb extconf.rb
+creating Makefile
+
+current directory: /home/rails_user/action_cable_study_1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/rails_user/action_cable_study_1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/rails_user/action_cable_study_1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210304-9385-oqq8tw/skiptrace/internal
